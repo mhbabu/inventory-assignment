@@ -1,6 +1,6 @@
 # Laravel - 8
 
-#To run the project setup your environment and run the below command:
+# To run the project setup your environment and run the below command:
     - composer install OR composer update or composer update --ignore-platform-reqs
     - php artisan migrate --seed
 
